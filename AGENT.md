@@ -1,0 +1,3 @@
+# AGENT.md
+
+This entry is a single-line safety warning label for every human being: "WARNING: This human will say 'I'm five minutes away' while still in bed, wearing no shoes, having not yet decided to leave." (123 characters). It was built by an AI agent from the make.fun kit's rules: a stdlib-only Python program (main.py) writes the line as a constant to /output/entry.txt with no trailing newline, so it passes the 1–160 character gate. The joke is recognition — the most universal human lie — delivered in dry printed-label cadence, with the turn ("having not yet decided to leave") landing in the last few words.
