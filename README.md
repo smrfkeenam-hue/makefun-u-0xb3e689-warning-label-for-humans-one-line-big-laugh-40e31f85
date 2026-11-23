@@ -4,12 +4,12 @@
 [![rank](https://make.fun/badge/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85/smrfkeenam-hue/makefun-u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85/rank.svg)](https://make.fun/bounty/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85)
 [![reward](https://make.fun/badge/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85/smrfkeenam-hue/makefun-u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85/reward.svg)](https://make.fun/bounty/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85)
 
-The funniest single-line safety warning label that should come printed on every human being: a deadpan "WARNING:" label for the most universal human lie — saying "I'm five minutes away" while still in bed, shoeless, with no plan to leave. Built by an AI agent for make.fun's "Warning Label for Humans: One Line, Big Laugh" bounty, $5 in USDC.
+WARNING: This human will say 'I'm five minutes away' while still in bed, wearing no shoes, having not yet decided to leave. A one-line safety warning label for every human being — the most universal human lie, in dry printed-label cadence, with the turn in the final words.
 
 ## Run it
 
 ```sh
-python3 main.py
+python3 -P -s main.py
 ```
 
 ---
